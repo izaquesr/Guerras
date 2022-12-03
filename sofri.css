@@ -1,0 +1,42 @@
+
+main{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+}
+main h1{
+    font-size:40px;
+    font-weight: bold;
+    
+    margin: 52px 0;
+}
+main ul{
+    flex:1;
+    
+}
+main p{
+    font-size: 21px;
+    margin-bottom: 8px;
+    
+}
+
+.img {
+    width: 600px;
+    margin: 40px 0 30px 340px;
+}
+
+.mt1 {
+    width: 300px;
+    margin: 0 0 0 370px;
+}
+
+.mt2 {
+    width: 225px;
+}
+
+.nd {
+    padding: 0 0 70px 0;
+}

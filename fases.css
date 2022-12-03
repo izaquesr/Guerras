@@ -1,0 +1,31 @@
+
+
+main{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+}
+main h1{
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin: 52px 0;
+}
+
+main ul{
+    flex:1;
+    
+}
+main li{
+    font-size: 21px;
+    margin-bottom: 8px;
+    
+}
+
+.brasil {
+    margin: 0 0 50px 0;
+}
+
